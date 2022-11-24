@@ -1,0 +1,90 @@
+[
+    {
+        "user_id": "erq8u23rcw9effcwqcdf1",
+        "firstname": "John",
+        "surname": "Whick",
+        "age": "23",
+        "is_alive": true, 
+        "is_married": "yes",
+        "is_child": false,
+        "spouse_id": "user_id of spouse",
+        "children": ["child_id"]
+    },
+    {
+        "user_id": "erq8u23rcw9effcwqcdf2",
+        "firstname": "Mick",
+        "surname": "",
+        "age": "46",
+        "is_alive": true,
+        "is_married": "yes",
+        "is_child": false,
+        "spouse_id": "user_id of spouse",
+        "children": ["child_id"]
+    },
+    {
+        "user_id": "erq8u23rcw9effcwqcdf3",
+        "firstname": "Adam",
+        "surname": "",
+        "age": "33",
+        "is_alive": true,
+        "is_married": "No",
+        "is_child": false,
+        "spouse_id": "user_id of spouse",
+        "children": ["child_id"]
+    },
+    {
+        "user_id": "erq8u23rcw9effcwqcdf4",
+        "firstname": "Sandy",
+        "surname": "",
+        "age": "28",
+        "is_alive": true,
+        "is_married": "No",
+        "is_child": false,
+        "spouse_id": "user_id of spouse",
+        "children": ["child_id"]
+    },
+    {
+        "user_id": "erq8u23rcw9effcwqcdf5",
+        "firstname": "Monica",
+        "surname": "Smith",
+        "age": "53",
+        "is_alive": true,
+        "is_married": "yes",
+        "is_child": false,
+        "spouse_id": "user_id of spouse",
+        "children": ["child_id"]
+    },
+    {
+        "user_id": "erq8u23rcw9effcwqcdf6",
+        "firstname": "Jack",
+        "surname": "Sparrow",
+        "age": "18",
+        "is_alive": true,
+        "is_married": "No",
+        "is_child": false,
+        "spouse_id": "user_id of spouse",
+        "children": ["child_id"]
+    },
+    {
+        "user_id": "erq8u23rcw9effcwqcdf7",
+        "firstname": "Lesly",
+        "surname": "Snipes",
+        "age": "30",
+        "is_alive": true,
+        "is_married": "Yes",
+        "is_child": false,
+        "spouse_id": "user_id of spouse",
+        "children": ["child_id"]
+    },
+    {
+        "user_id": "erq8u23rcw9effcwqcdf8",
+        "firstname": "Coby",
+        "surname": "bryant",
+        "age": "60",
+        "is_alive": true,
+        "is_married": "Yes",
+        "is_child": false,
+        "spouse_id": "user_id of spouse",
+        "children": ["child_id"]
+    }
+]
